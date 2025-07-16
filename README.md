@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=python,typescript,golang,docker,html,css,sql,git,react,postman,fastapi&perline=6">
-    <img src="https://skillicons.dev/icons?i=python,typescript,golang,docker,html,css,sql,git,react,postman,fastapi&perline=6" alt="Skill Icons">
+  <a href="https://skillicons.dev/icons?i=python,typescript,c++,golang,docker,html,css,sql,git,react,postman,fastapi&perline=6">
+    <img src="https://skillicons.dev/icons?i=python,typescript,c++,golang,docker,html,css,sql,git,react,postman,fastapi&perline=6" alt="Skill Icons">
   </a>
 </div>
 
