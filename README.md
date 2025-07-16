@@ -1,37 +1,14 @@
-# Hello 👋, I'm Mehmetcan
-### Junior Software Developer
 
-Fresh graduate Computer Engineer with hands-on experience in backend development and a keen interest in cloud technologies. Curious, motivated, and eager to learn and grow as a developer.
+<h3>Fresh graduate Computer Engineer with hands-on experience in backend development and a keen interest in cloud technologies. Curious, motivated, and eager to learn and grow as a developer.</h3>
 
 
 
-## Skills
+<div align="center">
+  <a href="https://skillicons.dev/icons?i=python,typescript,golang,docker,html,css,sql,git,react,postman,fastapi&perline=6">
+    <img src="https://skillicons.dev/icons?i=python,typescript,golang,docker,html,css,sql,git,react,postman,fastapi&perline=6" alt="Skill Icons">
+  </a>
+</div>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-</p>
-
-## Projects
-
-### Capstone Project
-
-A website that provides decision support for smartphone selection , and detects the phone brand from the uploaded phone image with FastAPI, React and YOLOv8.
-
-[View Project](https://github.com/mehmetcanece/which-phone-directory)
-
----
 
 ## GitHub Stats
 
