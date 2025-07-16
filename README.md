@@ -1,4 +1,4 @@
-
+<div align ="center">
 <h3 align="center"> Fresh graduate Computer Engineer with hands-on experience in backend development and a keen interest in cloud technologies. Curious, motivated, and eager to learn and grow as a developer.</h3>
 
 
@@ -16,3 +16,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanece&layout=compact&theme=dark"  />
 
+</div>
