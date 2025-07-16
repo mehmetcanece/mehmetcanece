@@ -4,7 +4,7 @@
 Fresh graduate Computer Engineer with hands-on experience in backend development and a keen interest in cloud technologies. Curious, motivated, and eager to learn and grow as a developer.
 
 ## Contact Me
-<p><a href="linkedin.com/in/mehmetcanece" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+<p><a href="[linkedin.com/in/mehmetcanece](https://www.linkedin.com/in/mehmetcanece/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
 ## Skills
 
