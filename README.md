@@ -1,5 +1,5 @@
 
-<h1>Fresh graduate Computer Engineer with hands-on experience in backend development and a keen interest in cloud technologies. Curious, motivated, and eager to learn and grow as a developer.</h3>
+<h3 align="center"> Fresh graduate Computer Engineer with hands-on experience in backend development and a keen interest in cloud technologies. Curious, motivated, and eager to learn and grow as a developer.</h3>
 
 
 
@@ -12,7 +12,7 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehmetcanece&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetcanece&show_icons=true&count_private=true&theme=dark"  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanece&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanece&layout=compact&theme=dark"  />
 
