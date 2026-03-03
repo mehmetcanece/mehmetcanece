@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=python,terraform,terragrunt,docker,linux,sql,git,aws,postman&perline=6">
-    <img src="https://skillicons.dev/icons?i=python,terraform,terragrunt,docker,linux,sql,git,aws,postman&perline=6" alt="Skill Icons">
+  <a href="https://skillicons.dev/icons?i=python,terraform,datadog,docker,linux,sql,git,aws,postman&perline=6">
+    <img src="https://skillicons.dev/icons?i=python,terraform,datadog,docker,linux,sql,git,aws,postman&perline=6" alt="Skill Icons">
   </a>
 </div>
 
